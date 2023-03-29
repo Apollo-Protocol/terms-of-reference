@@ -36,4 +36,4 @@ Please note that all modifications to the project will be strictly managed by th
 
 # Licence
 
-These terms of reference are released under the terms of the MIT [license](LICENCE.md).
+These terms of reference are released under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International [license](LICENCE.md).
