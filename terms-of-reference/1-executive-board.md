@@ -1,4 +1,5 @@
-![Apollo Protocol Logo](../img/apollo-protocol-logo.png)
+![Apollo Protocol Logo](../img/apollo-protocol-logo.png#gh-light-mode-only)
+![Apollo Protocol Logo](../img/apollo-protocol-logo-dark-mode.png#gh-dark-mode-only)
 # Executive Board - Terms of Reference
 
 ## Introduction
