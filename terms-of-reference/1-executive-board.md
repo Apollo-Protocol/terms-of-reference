@@ -33,12 +33,7 @@ Develop The Apollo Protocol, a curated open best-practice common language framew
 
 Our principles encourage open collaborative cross-sector activities, bringing together thought leaders, policy makers, industry, technology providers, academia and translational researchers under one roof to better society.
 
-#### 1. Neutral governance
-#### 2. Connected engagement
-#### 3. Aligned research direction
-#### 4. Collaborative management
-#### 5. Policy partnership
-#### 6. Openness
+![Apollo Protocol Principles: Neutral governance, Connected engagement, Aligned research Direction, Collaborative management, Policy partnership, Openness](../img/apollo-protocol-operating-principles.png)
 
 ## Review
 
@@ -63,7 +58,7 @@ Board members will be appointed for a term of three years, with the option to re
 
 ### c. Process for Appointment
 
-Membership is through an expression of interest process by any individual with an interest in the group’s mission. There are no specific requirements for membership, but all members are expected to meaningfully contribute to the overall direction of the Apollo Protocol initiative. Interested parties may apply for membership, including a brief description of their qualifications, relevant experience and organisation(s) they are able to represent on no more than 2 sides of A4, which will be reviewed by the current interim board. Successful applicants at this stage may be invited to participate in an interview process before final decisions are made, taking into account the current needs and current number of board members. Where applications are unsuccessful, feedback will be provided.
+Membership is through an expression of interest process by any individual with an interest in the group’s mission. There are no specific requirements for membership, but all members are expected to meaningfully contribute to the overall direction of the Apollo Protocol initiative. Interested parties may apply for membership, including a brief description of their qualifications, relevant experience and organisation(s) they are part of on no more than 2 sides of A4, which will be reviewed by the current interim board. Successful applicants at this stage may be invited to participate in an interview process before final decisions are made, taking into account the current needs and current number of board members. Where applications are unsuccessful, feedback will be provided.
 
 ## 3. Composition of Elected Positions
 
