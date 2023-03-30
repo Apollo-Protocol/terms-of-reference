@@ -52,7 +52,7 @@ These terms of reference will be reviewed periodically to align with evolving co
 To raise the profile of the Apollo Protocol advocating and promoting its approach, supporting the establishment and running of working group(s) and ultimately the development of the Apollo Protocol. They will provide operational management, exploration of funding to enable its activities and overall strategic direction including its documentation, major decision making and ensuring it is aligned at all times to the vision and mission. Wider responsibilities are captured in Section 7.
 
 ## 2. Membership
-    
+
 ### a. Representation
 
 Membership will be representative of the whole initiative, consisting of individuals who have the expertise to make decisions on behalf of the initiative, including a balance of members across all governance groups. Members do not represent associated organisations or commercial interests of organisations. It is expected to maintain a membership between 5-15 members. Deputisation of the role is permitted on a non-permanent ad-hoc basis. Whilst all involvement is not currently remunerated, it is wished that any funding towards the board would enable wider representation of individuals.
@@ -90,9 +90,9 @@ Responsible for participating in meetings, contributing to the group's work, and
 
 ### a. Notice period
 
-Members are required to give 30 days' notice before resigning from the group.
+Members are required to give 30 days notice before resigning from the group.
 
-### b.Resignation process
+### b. Resignation process
 
 Members may submit a resignation request in writing to the chairperson or secretary of the Executive Board. The request will be reviewed and approved by the chairperson and the board as a whole.
 
@@ -137,37 +137,37 @@ The board will use email as the primary means of communication. A group email li
 
 The board is required to fulfil all of these requirements as a collective with individuals either taking a greater responsibility for a particular task or a formal nominated responsibility to lead that activity area.
 
-a. Increase awareness and engagement within the Apollo Protocol Stakeholder Groups, primarily through sharing relevant updates with your respective industries.
+1. Increase awareness and engagement within the Apollo Protocol Stakeholder Groups, primarily through sharing relevant updates with your respective industries.
 
-b. Advocate for the Apollo Protocol approach including its operating principles for your own activities.
+2. Advocate for the Apollo Protocol approach including its operating principles for your own activities.
 
-c. Increase awareness of the Apollo Protocol's Working Groups and their outputs, primarily through sharing relevant updates with your professional networks, relevant domain areas and by promoting its membership.
+3. Increase awareness of the Apollo Protocol's Working Groups and their outputs, primarily through sharing relevant updates with your professional networks, relevant domain areas and by promoting its membership.
 
-d. Take part in Apollo Protocol activities, events and communication channels to promote and raise awareness.
+4. Take part in Apollo Protocol activities, events and communication channels to promote and raise awareness.
 
-e. Explore and pursue funding opportunities and contributions on behalf of the Apollo Protocol Executive Team including but not limited to:
+5. Explore and pursue funding opportunities and contributions on behalf of the Apollo Protocol Executive Team including but not limited to:
 
-i. Development of core programme tools to support all Forum Working Group and Protocol Working Group activities.
+    1. Development of core programme tools to support all Forum Working Group and Protocol Working Group activities.
 
-ii. Hosting of infrastructure and programme tools to support all Forum Working Group and Protocol Working Group activities.
+    2. Hosting of infrastructure and programme tools to support all Forum Working Group and Protocol Working Group activities.
 
-iii. Enablement of Forum Working Group activities.
+    3. Enablement of Forum Working Group activities.
 
-f. Generate new working groups and sub-committees to create new activities to enable the mission and vision. This could be convening a tactical fundraising committee for specific objectives such as enabling responsibilities in part e.
+6. Generate new working groups and sub-committees to create new activities to enable the mission and vision. This could be convening a tactical fundraising committee for specific objectives such as enabling responsibilities in part e.
 
-g. Development and upkeep of a communication strategy for the overall initiative, including the coordination of working group communications plans and activities with external stakeholder organisations.
+7. Development and upkeep of a communication strategy for the overall initiative, including the coordination of working group communications plans and activities with external stakeholder organisations.
 
-h. Management and up-versioning all terms of reference, including the agreement of the Executive Board's own terms of reference.
+8. Management and up-versioning all terms of reference, including the agreement of the Executive Board's own terms of reference.
 
-i. Ensure all activities align with policy, standards and other initiatives by having a connected engagement approach.
+9. Ensure all activities align with policy, standards and other initiatives by having a connected engagement approach.
 
-j. Manage requests for new working group activities (e.g. Protocol Working Group and Forum Working Group(s)).
+10. Manage requests for new working group activities (e.g. Protocol Working Group and Forum Working Group(s)).
 
-k. Management of membership requests for the Executive Board, Protocol Working Group and Steering Group.
+11. Management of membership requests for the Executive Board, Protocol Working Group and Steering Group.
 
-l. Management and up-versioning overall documentation.
+12. Management and up-versioning overall documentation.
 
-m. Management of confidential information of commercial sensitivity and confidential information relating to the initiatives operational capabilities and personnel information. Board members are expected to maintain strict confidentiality with respect to this information, not disclosing any information, either during or after their term to any unauthorised third party. Board members are expected to ensure that any confidential materials are securely stored and disposed of appropriately. Failure to adhere to these confidentiality expectations may result in revocation of board membership and/or legal action as per the applicable laws and regulations.
+13. Management of confidential information of commercial sensitivity and confidential information relating to the initiatives operational capabilities and personnel information. Board members are expected to maintain strict confidentiality with respect to this information, not disclosing any information, either during or after their term to any unauthorised third party. Board members are expected to ensure that any confidential materials are securely stored and disposed of appropriately. Failure to adhere to these confidentiality expectations may result in revocation of board membership and/or legal action as per the applicable laws and regulations.
 
 We are grateful to all individuals who are contributing their time with the initiative. Your support is invaluable, and together are committed to support you in return for your efforts whilst you remain a member of the Executive Board. Whilst these may seem small tokens of appreciation, we hope they express our gratitude via:
 
@@ -177,7 +177,7 @@ We are grateful to all individuals who are contributing their time with the init
 
 3. Early access: whilst one of our key principles is being open, early access will be provided to work in progress material such as publications.
 
-4.Use of branding: publications and larger events can be branded with your associated organisations to express support of the initiative and overall helping with the promotion of events.
+4. Use of branding: publications and larger events can be branded with your associated organisations to express support of the initiative and overall helping with the promotion of events.
 
 ## 8. Authority
 
