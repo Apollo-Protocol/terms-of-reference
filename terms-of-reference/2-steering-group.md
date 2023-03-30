@@ -1,5 +1,5 @@
-![Apollo Protocol Logo](../img/apollo-protocol-logo.png#gh-light-mode-only)
-![Apollo Protocol Logo](../img/apollo-protocol-logo-dark-mode.png#gh-dark-mode-only)
+![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/terms-of-reference/main/profile/apollo-protocol-logo.png#gh-light-mode-only)
+![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/terms-of-reference/main/profile/apollo-protocol-logo-dark-mode.png#gh-dark-mode-only)
 # Steering Group - Terms of Reference
 
 ## Introduction
