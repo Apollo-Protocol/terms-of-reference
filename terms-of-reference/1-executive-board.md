@@ -64,13 +64,12 @@ Membership is through an expression of interest process by any individual with a
 
 ### a. Chair
 
-An elected representative of the executive board who will chair all meetings. They should be respected and an experienced leader who is able to guide the board and focus on the goals of the initiative. The chairperson should have strong communication and conflict resolution skills, and should be able to facilitate productive discussions and decision-making within the board. 
-
-The chairperson will also chair the Steering Group.
+An elected representative of the executive board who will chair all meetings. They should be respected and an experienced leader who is able to guide the board and focus on the goals of the initiative. The chairperson should have strong communication and conflict resolution skills, and should be able to facilitate productive discussions and decision-making within the board.
 
 ### b. Vice Chair
 
-An elected representative of the executive board who is able to chair meetings in absence of the Chair not being available. Their experience should be the same criteria of the chairperson.
+An elected representative of the executive board who is able to chair meetings in absence of the Chair not being available. Their experience should be the same criteria of the chairperson. 
+The chairperson will be responsible for chairing the Steering Group.
 
 ### c. Secretary
 
