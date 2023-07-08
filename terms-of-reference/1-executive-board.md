@@ -68,8 +68,8 @@ An elected representative of the executive board who will chair all meetings. Th
 
 ### b. Vice Chair
 
-An elected representative of the executive board who is able to chair meetings in absence of the Chair not being available. Their experience should be the same criteria of the chairperson. 
-The chairperson will be responsible for chairing the Steering Group.
+An elected representative of the executive board who is able to chair meetings in absence of the Chair not being available. Their experience should be the same criteria of the chairperson.
+The vice chair will be responsible for chairing the Steering Group.
 
 ### c. Secretary
 
